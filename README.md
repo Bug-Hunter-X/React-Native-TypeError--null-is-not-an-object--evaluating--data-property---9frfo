@@ -1,0 +1,2 @@
+# React Native TypeError: null is not an object (evaluating 'data.property')
+This repository demonstrates a common error in React Native applications: TypeError: null is not an object (evaluating 'data.property'). This error occurs when you try to access a property of an object that is null or undefined. The example shows how this error can occur and how to prevent it using optional chaining and nullish coalescing operators.
